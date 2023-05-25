@@ -6,4 +6,7 @@ This repository contains a jupyter notebook which consists of 6 types of regress
 4) Logistic Regression
 5) Decision Trees classifier
 6) Random Forest Classifier
-//All this has been done in a single jupyter notebook.
+.
+.
+All this has been done in a single jupyter notebook.
+NOTE: This repository is created particularly for Mozilla Firefox Club (MFC).
